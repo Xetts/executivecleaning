@@ -9,6 +9,16 @@ $body-font: "Open Sans", sans-serif;
 $header-font: "Lobster", cursive;
 
 
+body {
+    background-color: darkblue;
+    h1{
+        color:green;
+    }
+    p{
+        color:white;
+    }
+}
+
 header {
     h1{
         color: green;
@@ -17,6 +27,3 @@ header {
 
 }
 
-body {
-    background-color: darkblue;
-}

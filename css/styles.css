@@ -1,6 +1,10 @@
+body {
+  background-color: darkblue; }
+  body h1 {
+    color: green; }
+  body p {
+    color: white; }
+
 header h1 {
   color: green;
   font-family: "Lobster", cursive; }
-
-body {
-  background-color: darkblue; }
